@@ -41,13 +41,35 @@
 - OpenAI APIs, Mistral Models, Pinecone Vector Stores, Proxy-Based Scraping Engines
 
 ---
-
 ## 🌟 Featured Projects
 
 - 🚀 [MASX AI – Strategic Autonomous AI System (In Development)](https://github.com/AteetVatan)  
-- 🌐 [My AI Portfolio Website](https://ateetai.vercel.app) – Showcasing real-time LLM integration, autonomous agent designs, and AI innovation.
+  *Architecting a modular, strategic LLM agent system for geopolitical simulation and ethical decision augmentation.*  
+  **Tech Stack:** Python, Flask, LangChain, AutoGen, Supabase, Redis, Airflow, Docker
 
----
+- 🚀 [Movie Management System](https://github.com/AteetVatan/Movie_Project)  
+  *Full-stack movie database application with CRUD with MVC pattern and API integrations.*  
+  **Tech Stack:** Python, Flask, SQLite, Jinja2, Bulma CSS
+  https://movie-app-kufy.onrender.com
+
+- 🚀 [Nexora Portfolio Application](https://github.com/AteetVatan/Ateet_Portfolio_APP_Nexora)  
+  *portfolio website built with React, TypeScript, and Tailwind CSS.*  
+  **Tech Stack:** React, TypeScript, Tailwind CSS, Vite, Supabase, Postgres
+  https://ateetai.vercel.app/
+    
+- 🚀 [Masterblog API](https://github.com/AteetVatan/Masterblog_API) 
+  *MVC-inspired, Repository Pattern, Service Layer, modular API for dynamic blog content management, following clean architecture and REST principles.*
+  **Tech Stack:** Python, Flask, SQLAlchemy, SQLite, Jinja2,
+    
+- 🚀 [Drone Delivery Planner](https://github.com/AteetVatan/DroneDeliveryPlanner)  
+  *Real-time drone delivery optimization with dynamic geospatial intelligence.*  
+  **Tech Stack:** c#, AWS , Map APIs, Optimization Algorithms
+  
+- 🚀 [MASTER BLOG Flask MVVM CRUD Application](https://github.com/AteetVatan/Masterblog)  
+  Flask-based web application following the MVVM (Model-View-ViewModel) pattern with CRUD.
+  Tech Stack: Python, Flask, Jinja2
+
+- In the repository you can find more projects.---
 
 ## 📈 MASX AI – Vision for 2024–2025
 
