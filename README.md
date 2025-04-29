@@ -46,6 +46,7 @@
 - 🚀 [MASX AI – Strategic Autonomous AI System (In Development)](https://github.com/AteetVatan)  
   *Architecting a modular, strategic LLM agent system for geopolitical simulation and ethical decision augmentation.*  
   **Tech Stack:** Python, Flask, LangChain, AutoGen, Supabase, Redis, Airflow, Docker
+  https://masx-ai-client.vercel.app/
 
 - 🚀 [Movie Management System](https://github.com/AteetVatan/Movie_Project)  
   *Full-stack movie database application with CRUD with MVC pattern and API integrations.*  
@@ -73,6 +74,7 @@
 
 ## 📈 MASX AI – Vision for 2024–2025
 
+https://masx-ai-client.vercel.app/
 - ✅ Architect a modular, dynamic multi-agent system for strategic simulation.  
 - ✅ Integrate live geopolitical data ingestion pipelines and real-time adaptive doctrine engines.  
 - ✅ Develop ethical simulation layers for value-aligned decision making.  
