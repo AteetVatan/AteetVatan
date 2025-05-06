@@ -10,7 +10,7 @@
 - 🌐 [Portfolio – ateetai.vercel.app](https://ateetai.vercel.app)
 - 🔗 [LinkedIn – Ateet Vatan Bahmani](https://www.linkedin.com/in/ateet-vatan-bahmani)
 - 📧 Email: ateetv555@gmail.com
-- 📂 [My GitHub Repositories](https://github.com/AteetVatan)
+- 📂 [My GitHub Repositories](https://github.com/AteetVatan?tab=repositories)
 
 ---
 
@@ -46,6 +46,7 @@
 - 🚀 [MASX AI – Strategic Autonomous AI System (In Development)]
   - Client (https://github.com/AteetVatan/MASX_AI_CLIENT) (In Development)
   - Server (https://github.com/AteetVatan/MASX_AI_SERVER) (In Development)
+  - MASX_AI_GDELT_API(https://github.com/AteetVatan/MASX_AI_GDELT_API) (GEDLT FLASK API)
     
   *Architecting a modular, strategic LLM agent system for geopolitical simulation and ethical decision augmentation.*  
   **Tech Stack:** Python, Flask, LangChain, AutoGen, Supabase, Redis, Airflow, Docker
