@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ateet Vatan Bahmani
+# 👋 Hi, I'm Ateet Bahamani
 
 ### 🧠 LLM Integration Architect | AI Automation Engineer
 ### 🎯 Focus Areas: LLM Integrations | AI Agent Development | Mission-Driven AI Innovation
