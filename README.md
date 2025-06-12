@@ -52,12 +52,12 @@
   **Tech Stack:** Python, Flask, LangChain, AutoGen, Supabase, Redis, Airflow, Docker
   https://masx-ai-client.vercel.app/
 
-- 🚀 [Movie Management System](https://github.com/AteetVatan/AgenticMatch-3H)  
+- 🚀 [AgenticMatch-3H](https://github.com/AteetVatan/AgenticMatch-3H)  
   *3-hour Agentic AI prototype that lets users upload an image and matches it to partner brands based on visual style and mood using CLIP embeddings and FAISS similarity search.*  
   **Tech Stack:** Python, CLIP, FASIS, FastAPI
-  https://huggingface.co/spaces/AteetVatan/agenticmatch
+  https://huggingface.co/spaces/AteetVatan/agenticmatch   
 
-- 🚀 [AgenticMatch-3H](https://github.com/AteetVatan/Movie_Project)  
+- 🚀 [Movie Management System](https://github.com/AteetVatan/Movie_Project)  
   *Full-stack movie database application with CRUD with MVC pattern and API integrations.*  
   **Tech Stack:** Python, Flask, SQLite, Jinja2, Bulma CSS
   https://movie-app-kufy.onrender.com
