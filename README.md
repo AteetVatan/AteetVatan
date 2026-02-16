@@ -152,8 +152,8 @@ To help **guide humanity** through complexity — by turning global signals into
 
 ## 📊 GitHub Signals
 
-![Ateet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AteetVatan&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteetVatan&layout=compact&theme=radical&langs_count=10)
+![Ateet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AteetVatan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AteetVatan&layout=compact&theme=radical&langs_count=10&cache_seconds=86400)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AteetVatan&theme=radical)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AteetVatan&theme=redical)
