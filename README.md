@@ -2,55 +2,94 @@
 
 ### 🧠 LLM Integration Architect | AI Automation Engineer
 ### 🎯 Focus Areas: LLM Integrations | AI Agent Development | Mission-Driven AI Innovation
-
+**Building MASX AI — an autonomous strategic intelligence system (signals → reasoning → forecasting).**  
+Also shipping **Galileo Arena** — a multi-agent LLM evaluation + quality control platform.
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 [Portfolio – ateetai.vercel.app](https://ateetai.vercel.app)
-- 🔗 [LinkedIn – Ateet Vatan Bahmani](https://www.linkedin.com/in/ateet-vatan-bahmani)
-- 📧 Email: ab@masxai.com
-- 📂 [My GitHub Repositories](https://github.com/AteetVatan?tab=repositories)
+- 🌐 Portfolio: https://ateetai.vercel.app  
+- 📝 Blog: https://ateetai.vercel.app/blog  
+- 🔗 LinkedIn: https://www.linkedin.com/in/ateet-vatan-bahmani  
+- 📧 Email: ab@masxai.com  
+- 🧪 Galileo Live Demo: https://galileo.masxai.com/
 
 ---
 
-## 🚀 Current Focus: Building the Future of Strategic AI
+## 🚀 Current Focus (2026)
 
-🔹 **MASX AI** – Architecting a next-generation Multimodal Autonomous Strategic Intelligence System (in development).  
-🔹 **Real-Time LLM Pipelines** – Implementing dynamic pipelines using Flask APIs, Redis caching, Supabase databases, and Airflow orchestration.  
-🔹 **Multi-Agent Systems** – Designing LangChain and AutoGen-based LLM agents with adaptive ethics and vectorized memory retrieval.  
-🔹 **Strategic Doctrine Simulation** – Building AI systems capable of reasoning, simulating geopolitical strategies, and ethical decision augmentation.
+### 🧠 MASX AI — Strategic Autonomous AI System (Flagship)
+I’m building MASX AI as a modular, production-grade platform for **real-time signal ingestion**, **agentic reasoning**, and **forecasting**.
+
+**MASX AI Modules**
+1) **MASX Hotspots** — flashpoint detection + feed generation  
+   https://github.com/AteetVatan/masx-hotspots  
+2) **MASX GeoSignal** — high-throughput ingestion + enrichment layer  
+   https://github.com/AteetVatan/masx-geosignal  
+3) **MASX Forecasting** — forecasting + reasoning engine  
+   https://github.com/AteetVatan/masx-forecasting  
+---
+
+## 🧪 Galileo Arena — LLM Benchmarking + Quality Controls
+**Multi-model agentic debate evaluation platform** implementing the “Galileo Test” style evaluation harness.  
+It evaluates LLMs via **adversarial deliberation (Orthodox / Heretic / Skeptic / Judge)**, with **deterministic + ML hybrid scoring** and a full audit trail.
+
+- 🔥 Live Demo: https://galileo.masxai.com/  
+- 📦 Repo/Docs: https://github.com/AteetVatan/AIGalileoArena
 
 ---
 
-## 🛠️ Core Skills and Technologies
+## 🛠️ Core Skills & Technologies
 
-**AI / LLM Engineering:**  
-- LangChain, AutoGen, Retrieval-Augmented Generation (RAG)  
-- Prompt Engineering, Ethical Simulation Frameworks, Autonomous Agent Routing
+### 🤖 AI / Agentic Systems
+- Agent SDK patterns, LangChain, **LangGraph**, AutoGen
+- RAG (retrieval + grounding), tool/function calling, structured outputs
+- Hugging Face ecosystem, **PyTorch**, **TensorFlow**
+- Workflow automation: **n8n**
 
-**Fullstack Systems Development:**  
-- Python (Flask, FastAPI), C#, .NET Core, React, Angular, Vite, TypeScript, 
-- Supabase, Redis, Airflow, Kafka, Vector Databases, Microservices Architecture
+### 🧠 LLM Infra / Backend Engineering
+- **Python**, FastAPI, Flask, Pydantic
+- C# / .NET (platform + API work)
+- Vector search & embeddings: **Chroma**, **FAISS** (and scalable retrieval patterns)
+- Datastores: PostgreSQL / Supabase, SQL Server
+- Real-time + async pipelines, orchestration-first architecture
 
-**Infrastructure & Deployment:**  
-- Docker, GitHub Actions, GitLab CI/CD, Azure DevOps  
-- API Deployments with Flask, Serverless Integrations, Vercel Hosting
+### 🧪 LLMOps / Evaluation / Reliability
+- LangSmith, PromptLayer, TruLens
+- Prompt versioning, deterministic runs, cost tracking
+- CI/CD for agent systems, regression-style eval gates, audit-friendly execution
 
-**AI Tools & Integrations:**  
-- OpenAI APIs, Mistral Models, Pinecone Vector Stores, Proxy-Based Scraping Engines
+### 🧩 Frontend for AI Systems
+- Angular (v15–17), TypeScript, Tailwind
+- Chat UIs, agent dashboards, evaluation panels
+
+### ☁️ Cloud / DevOps
+- AWS: Lambda, ECS, S3, API Gateway, IAM
+- Docker, GitHub Actions, CI/CD automation
+
+### 🛡️ Security / Delivery Strengths
+- Cybersecurity mindset + data integrity
+- Compliance-driven development, stakeholder alignment, change management
 
 ---
 ## 🌟 Featured Projects
 
-- 🚀 [MASX AI – Strategic Autonomous AI System (In Development)]
-  - Client (https://github.com/AteetVatan/MASX_AI_CLIENT) (In Development)
-  - Server-core (https://github.com/AteetVatan/MASX_AI_SERVER) (In Development)
-  - Server-GDELT API (https://github.com/AteetVatan/MASX_AI_GDELT_API) (GEDLT FLASK API)
-    
-  *Architecting a modular, strategic LLM agent system for geopolitical simulation and ethical decision augmentation.*  
-  **Tech Stack:** Python, Flask, LangChain, AutoGen, Supabase, Redis, Airflow, Docker
-  https://masx-ai-client.vercel.app/
+- 🎙️ **EchoAI — Real-Time Voice-Driven Agentic Intelligence**
+  Voice-first AI clone with **real-time STT → RAG memory retrieval → LLM reasoning → TTS**, built for autonomous conversations with persistent, grounded knowledge.
+  **Highlights:** WebSocket audio streaming, Faster-Whisper (local) + Whisper fallback, Edge-TTS, ChromaDB semantic memory, Supabase + SQLite caching, DeepSeek (primary) + Mistral fallback, LangChain RAG.
+  Repo: https://github.com/AteetVatan/echo-ai
+
+- 🚀 **ApplyBots — AI-Powered Job Application Platform**
+  Agentic platform to discover jobs, generate tailored applications, and submit safely with **Truth-Lock** (resume-verified, anti-hallucination) + human-in-the-loop approval. Includes ATS automation (Greenhouse/Lever) with audit logs/screenshots, campaigns, and analytics.  
+  Repo: https://github.com/AteetVatan/ApplyBots
+
+- 🤖 **medAI — Clinical Speech & Documentation Platform**
+  Real-time clinical intake + documentation backend for German-speaking clinics: speech-to-text, medical entity recognition, LLM summarization, translation, and PDF report generation — orchestrated as an agentic pipeline.  
+  Repo: https://github.com/AteetVatan/medai.git
+
+- 🎬 **ShotGraph — AI Cinematic Video Generation Pipeline**
+  Multi-agent pipeline that converts long-form stories into cinematic videos using LLM scene breakdown + shot planning, diffusion video generation, TTS narration, music generation, and MoviePy/FFmpeg composition.  
+  Repo: https://github.com/AteetVatan/ShotGraph
 
 - 🚀 [AgenticMatch-3H](https://github.com/AteetVatan/AgenticMatch-3H)  
   *3-hour Agentic AI prototype that lets users upload an image and matches it to partner brands based on visual style and mood using CLIP embeddings and FAISS similarity search.*  
