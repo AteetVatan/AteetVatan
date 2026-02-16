@@ -2,7 +2,7 @@
 
 ### 🧠 LLM Integration Architect | AI Automation Engineer
 ### 🎯 Focus Areas: LLM Integrations | AI Agent Development | Mission-Driven AI Innovation
-**Building MASX AI — an autonomous strategic intelligence system (signals → reasoning → forecasting).**  
+### Building MASX AI — an autonomous strategic intelligence system (signals → reasoning → forecasting).**  
 Also shipping **Galileo Arena** — a multi-agent LLM evaluation + quality control platform.
 ---
 
