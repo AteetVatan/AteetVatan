@@ -121,14 +121,32 @@ It evaluates LLMs via **adversarial deliberation (Orthodox / Heretic / Skeptic /
 
 - In the repository you can find more projects.---
 
-## 📈 MASX AI – Vision for 2024–2025
+## 🧭 MASX AI — Vision for 2026–2030 (Palantir of the AI Era)
 
-https://masx-ai-client.vercel.app/
-- ✅ Architect a modular, dynamic multi-agent system for strategic simulation.  
-- ✅ Integrate live geopolitical data ingestion pipelines and real-time adaptive doctrine engines.  
-- ✅ Develop ethical simulation layers for value-aligned decision making.  
-- ✅ Engineer scalable memory retrieval systems using custom vector databases and Supabase optimization.  
-- ✅ Position MASX AI for real-world applications in defense, policy intelligence, and mission-critical automation.
+MASX AI is my long-term build: a **Strategic Intelligence OS** — the **Palantir of the future**, rebuilt for the AI era:
+**open, agentic, measurable, and evidence-first**.
+
+### Why it exists
+To help **guide humanity** through complexity — by turning global signals into **decision-grade intelligence** that is
+**grounded, transparent, and accountable** (not black-box “trust me bro” outputs).
+
+### What MASX AI becomes
+- **Always-on Global Signal Grid**: ingest + normalize multilingual OSINT (RSS / GDELT-style feeds / structured sources).
+- **Entity + Event Intelligence Layer**: dedupe, link, timeline, and provenance for *who/what/where/when*.
+- **Agentic Reasoning + Doctrine Engine**: multiple strategic agents debate, validate, and simulate outcomes (incl. counterfactuals).
+- **Forecasting (measurable, not vibes)**: predictions with confidence, time horizons, assumptions, and “what would change my mind” triggers.
+- **Evidence-first Outputs**: every insight links back to sources, extracted claims, and reasoning steps — **audit trail by default**.
+- **Eval-Gated Quality Control**: continuous regression eval + scoring so quality improves systematically over time.
+- **Strategy Cockpit UI**: dashboards for hotspots, timelines, confidence, maps, and longitudinal accuracy tracking.
+
+### 2026 → 2030 execution arc
+- **2026:** Stable daily system publishing evidence-backed hotspots + forecasts.
+- **2027:** Multi-source fusion + stronger entity/event graph + scalable orchestration.
+- **2028:** Forecast calibration + feedback loops (accuracy scoring, auto-refinement).
+- **2029:** Multimodal signals + richer simulations and scenario planning workflows.
+- **2030:** Modular platform: plug-in agents, plug-in doctrine packs, deployable for real teams.
+
+**North Star:** help societies make better calls — faster, calmer, and based on evidence.
 
 ---
 
