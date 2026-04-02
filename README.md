@@ -9,13 +9,16 @@
 
 ## 📫 Connect with Me
 
-- 🌐 Portfolio: https://ateetai.vercel.app  
-- 📝 Blog: https://ateetai.vercel.app/blog  
+- 🌐 Portfolio: https://ateet.masxai.com
+- 💼 Projects: https://ateet.masxai.com/projects
+- 📝 Blog: https://ateet.masxai.com/blog
 - 🔗 LinkedIn: https://www.linkedin.com/in/ateet-vatan-bahmani  
 - 📧 Email: ab@masxai.com  
 - 🧪 Galileo Live Demo: https://galileo.masxai.com/
 
 ---
+
+## For Detailted Projects please Visit :  https://ateet.masxai.com/projects
 
 ## 🚀 Current Focus (2026)
 
@@ -23,12 +26,16 @@
 I’m building MASX AI as a modular, production-grade platform for **real-time signal ingestion**, **agentic reasoning**, and **forecasting**.
 
 **MASX AI Modules**
-1) **MASX Hotspots** — flashpoint detection + feed generation  
-   https://github.com/AteetVatan/masx-hotspots  
-2) **MASX GeoSignal** — high-throughput ingestion + enrichment layer  
-   https://github.com/AteetVatan/masx-geosignal  
-3) **MASX Forecasting** — forecasting + reasoning engine  
-   https://github.com/AteetVatan/masx-forecasting  
+1) **MASX Forecast** — Global Predictive Analytics + Flashpoint Detection + Feed Generation.
+   I have built an autonomous system that ingests raw telemetry and intelligence signals
+   to analyze global datasets, predict future flashpoints, and automatically produce
+   broadcast-quality intelligence briefings to keep decision-makers ahead of the curve.
+   
+   https://forecast.masxai.com/   (closed source)
+   
+3) **MASX GeoSignal** — high-throughput ingestion + enrichment layer
+    
+   https://geosignal.masxai.com/  (closed source)
 ---
 
 ## 🧪 Galileo Arena — LLM Benchmarking + Quality Controls
@@ -37,6 +44,15 @@ It evaluates LLMs via **adversarial deliberation (Orthodox / Heretic / Skeptic /
 
 - 🔥 Live Demo: https://galileo.masxai.com/  
 - 📦 Repo/Docs: https://github.com/AteetVatan/AIGalileoArena
+
+---
+
+## 🎙️ Echo AI — Personal AI Clone + Voice Interaction
+**Voice-enabled personal AI clone platform** designed to answer questions about Ateet’s background, projects, and expertise through conversational AI.
+It enables interactive text + voice Q&A, with a structured knowledge layer, retrieval-backed responses, and a portfolio-style AI experience.
+
+- 🔥 Live Demo: https://ateetclone.masxai.com/
+- 📦 Repo/Docs: https://github.com/AteetVatan/echo-ai
 
 ---
 
