@@ -33,7 +33,7 @@ I’m building MASX AI as a modular, production-grade platform for **real-time s
    
    https://forecast.masxai.com/   (closed source)
    
-3) **MASX GeoSignal** — high-throughput ingestion + enrichment layer
+3) **MASX GeoSignal** — high-throughput ingestion + enrichment layer + Global Flashpoint content Generation
     
    https://geosignal.masxai.com/  (closed source)
 ---
